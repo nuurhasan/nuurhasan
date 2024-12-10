@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noor Hasan</h1>
 <h3 align="center">Full Stack Developer - Angular - MEAN - PHP- WordPress</h3>
 
-- 📫 How to reach me **nuurhasan@hotmail.com**
+- 📫 How to reach me **nuurhasan(@)hotmail.com**
 
 <p align="left">
 </p>
