@@ -2,12 +2,12 @@
 <h3 align="center">Full Stack Developer - Angular - MEAN - PHP- WordPress</h3>
 
 <p align="left">
-a Full Stack Developer passionate about building dynamic and responsive web applications. With a strong foundation in front-end development and expertise in frameworks like Angular and CMS platforms like WordPress, I craft seamless user experiences and robust back-end functionality.
+A Full Stack Developer passionate about building dynamic and responsive web applications. With a strong foundation in front-end development and expertise in frameworks like Angular and CMS platforms like WordPress, I craft seamless user experiences and robust back-end functionality.
 </p>
 
 <p align="left"><h3>💻 Skills & Technologies</h3>
 <ul>
-<li>front-End: HTML, CSS, JavaScript, Angular, React</li>
+<li>Front-End: HTML, CSS, JavaScript, Angular, React</li>
 <li>Back-End: PHP, Node.js</li>
 <li>CMS & E-Commerce: WordPress, WooCommerce</li>
 <li>Version Control: Git, GitHub</li>
